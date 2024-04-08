@@ -1,0 +1,43 @@
+Motor,Weight,Launch,Velocity,Accel,Altitude,Time,Delay
+Cesaroni E75,20.8oz,72ft/s,126ft/s,15.1G,243ft,4.0s,4s
+AeroTech F44,20.7oz,62ft/s,207ft/s,10.4G,607ft,6.3s,5s
+Cesaroni F51,21.6oz,57ft/s,229ft/s,10.0G,746ft,6.9s,6s
+Cesaroni F70,21.6oz,70ft/s,254ft/s,14.9G,829ft,7.1s,6s
+AeroTech F35,22.0oz,56ft/s,247ft/s,8.5G,900ft,7.6s,6s
+AeroTech F32,21.3oz,54ft/s,244ft/s,8.9G,917ft,7.8s,6s
+Cesaroni F50,22.3oz,60ft/s,262ft/s,10.0G,942ft,7.7s,6s
+Cesaroni F79,22.8oz,68ft/s,313ft/s,14.0G,1127ft,8.1s,7s
+Cesaroni F240,22.2oz,127ft/s,346ft/s,45.0G,1164ft,8.0s,8s
+Cesaroni F30,22.6oz,51ft/s,273ft/s,7.6G,1224ft,8.9s,6s
+Cesaroni F85,22.4oz,77ft/s,343ft/s,15.5G,1261ft,8.5s,8s
+Cesaroni F51,22.4oz,65ft/s,320ft/s,12.4G,1298ft,8.8s,7s
+Cesaroni G100,24.6oz,88ft/s,472ft/s,24.3G,1985ft,10.2s,9s
+Cesaroni G84,25.1oz,78ft/s,512ft/s,17.6G,2280ft,10.9s,9s
+
+Motor,Alt.^,Delay
+Cesaroni E75,243ft,4s
+AeroTech F44,607ft,5s
+Cesaroni F51,746ft,6s
+Cesaroni F70,829ft,6s
+AeroTech F35,900ft,6s
+AeroTech F32,917ft,6s
+Cesaroni F50,942ft,6s
+Cesaroni F79,1127ft,7s
+Cesaroni F240,1164ft,8s
+Cesaroni F30,1224ft,6s
+Cesaroni F85,1261ft,8s
+Cesaroni F51,1298ft,7s
+Cesaroni G100,1985ft,9s
+Cesaroni G84,2280ft,9s
+
+Motor,Cesaroni E75
+Weight,20.8oz
+Launch,72ft/s
+Velocity,126ft/s
+Accel,15.1G
+Altitude,243ft
+Time,4.0s
+Delay,4s
+CD,0.30
+Guide,36in
+Status,good

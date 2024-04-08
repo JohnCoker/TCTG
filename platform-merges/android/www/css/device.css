@@ -1,0 +1,6 @@
+.km-android .km-view {
+    -moz-box-direction: initial;
+    -webkit-box-direction: initial;
+    -ms-box-direction: initial;
+    box-direction: initial;
+}

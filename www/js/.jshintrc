@@ -1,0 +1,64 @@
+// http://www.jshint.com/docs/
+{
+    "browser": true,
+    "devel": true,
+    "jquery": true,
+    "eqnull": true,
+    "strict": false,
+    "undef": true,
+    "unused": "vars",
+
+    "globals": {
+      "app": true,
+      "kendo": true,
+      "KendoApp": true,
+
+      "loadStorage": true,
+      "saveStorage": true,
+      "doAlert": true,
+      "doConfirm": true,
+      "showPrompt": true,
+
+      "isPhone": true,
+      "hasNetwork": true,
+      "escapeAttr": true,
+      "escapeHtml": true,
+      "setupSelect": true,
+      "setupUnits": true,
+      "setupListForm": true,
+      "updateSelect": true,
+      "parseNumber": true,
+      "setInputDimension": true,
+      "getInputDimension": true,
+      "setInputNumber": true,
+      "getInputNumber": true,
+      "loadStorage": true,
+      "saveStorage": true,
+      "removeStorage": true,
+      "toId": true,
+      "isNumber": true,
+      "isPositive": true,
+      "parseResponseErrors": true,
+
+      "Units": true,
+      "getUnit": true,
+      "convertToMKS": true,
+      "convertFromMKS": true,
+      "convertMMTFromMKS": true,
+
+      "formatFromMKS": true,
+      "formatMMTFromMKS": true,
+      "formatBurnTime": true,
+      "formatImpulseFromMKS": true,
+      "formatClassPercent": true,
+      "formatCommonName": true,
+      "styleChartOptions": true,
+
+      "Metadata": true,
+      "Account": true,
+      "Motors": true,
+      "Rockets": true,
+      "Guide": true,
+      "Options": true
+    }
+}

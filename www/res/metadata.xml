@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata-response xmlns="http://www.thrustcurve.org/2008/MetadataResponse" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.thrustcurve.org/2008/MetadataResponse http://www.thrustcurve.org/2008/metadata-response.xsd">
+<manufacturers>
+<manufacturer abbrev="AeroTech">AeroTech</manufacturer>
+<manufacturer abbrev="AMW">Animal Motor Works</manufacturer>
+<manufacturer abbrev="Apogee">Apogee Components</manufacturer>
+<manufacturer abbrev="Cesaroni">Cesaroni Technology</manufacturer>
+<manufacturer abbrev="Contrail">Contrail Rockets</manufacturer>
+<manufacturer abbrev="Ellis">Ellis Mountain</manufacturer>
+<manufacturer abbrev="Estes">Estes Industries</manufacturer>
+<manufacturer abbrev="KBA">Kosdon by AeroTech</manufacturer>
+<manufacturer abbrev="Hypertek">Hypertek</manufacturer>
+<manufacturer abbrev="Loki">Loki Research</manufacturer>
+<manufacturer abbrev="PML">Public Missiles, Ltd.</manufacturer>
+<manufacturer abbrev="PP">Propulsion Polymers</manufacturer>
+<manufacturer abbrev="Quest">Quest Aerospace</manufacturer>
+<manufacturer abbrev="RATT">R.A.T.T. Works</manufacturer>
+<manufacturer abbrev="Roadrunner">Roadrunner Rocketry</manufacturer>
+<manufacturer abbrev="RV">Rocketvision Flight-Star</manufacturer>
+<manufacturer abbrev="SkyR">Sky Ripper Systems</manufacturer>
+<manufacturer abbrev="WCH">West Coast Hybrids</manufacturer>
+<manufacturer abbrev="GR">Gorilla Rocket Motors</manufacturer>
+<manufacturer abbrev="Alpha">Alpha Hybrids</manufacturer>
+<manufacturer abbrev="Kosdon">Kosdon TRM</manufacturer>
+<manufacturer abbrev="SCR">Southern Cross Rocketry</manufacturer>
+</manufacturers>
+<cert-orgs>
+<cert-org abbrev="TRA">Tripoli Rocketry Association, Inc.</cert-org>
+<cert-org abbrev="NAR">National Association of Rocketry</cert-org>
+<cert-org abbrev="CAR">Canadian Association of Rocketry</cert-org>
+<cert-org abbrev="AMRS">Austrialian Model Rocket Society Inc.</cert-org>
+</cert-orgs>
+<types>
+<type>hybrid</type>
+<type>reload</type>
+<type>SU</type>
+</types>
+<diameters>
+<diameter>6</diameter>
+<diameter>10.5</diameter>
+<diameter>13</diameter>
+<diameter>18</diameter>
+<diameter>20</diameter>
+<diameter>24</diameter>
+<diameter>29</diameter>
+<diameter>32</diameter>
+<diameter>38</diameter>
+<diameter>54</diameter>
+<diameter>64</diameter>
+<diameter>75</diameter>
+<diameter>76</diameter>
+<diameter>81</diameter>
+<diameter>98</diameter>
+<diameter>132</diameter>
+<diameter>152</diameter>
+<diameter>161</diameter>
+</diameters>
+<impulse-classes>
+<impulse-class>A</impulse-class>
+<impulse-class>B</impulse-class>
+<impulse-class>C</impulse-class>
+<impulse-class>D</impulse-class>
+<impulse-class>E</impulse-class>
+<impulse-class>F</impulse-class>
+<impulse-class>G</impulse-class>
+<impulse-class>H</impulse-class>
+<impulse-class>I</impulse-class>
+<impulse-class>J</impulse-class>
+<impulse-class>K</impulse-class>
+<impulse-class>L</impulse-class>
+<impulse-class>M</impulse-class>
+<impulse-class>N</impulse-class>
+<impulse-class>O</impulse-class>
+</impulse-classes>
+</metadata-response>

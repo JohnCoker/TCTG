@@ -1,0 +1,11 @@
+Now you can take ThrustCurve.org with you to the launch site, even if the launch is at Black Rock desert!
+
+Search for motors and mark your favorites to make them available offline.
+
+You can even enter a few bits of info about your rocket and use the Motor Guide to find motors that work.
+Then you'll have a list of working motors and performance estimates with you.
+
+This makes it easy to choose a motor for that one extra flight you hadn't planned to make.
+No more guessing; know what motors will work and how they will perform before you buy.
+
+Motor data at your fingertips; ThrustCurve to-go.
